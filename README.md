@@ -20,8 +20,8 @@ where `p` is the "maximum number of corners" parameter passed to Matlab's `corne
 Examples: 
 `triangulate('emmy.png',600)` 
 
-![Emmy Noether](https://github.com/ojwalch/triangulate-svg/blob/master/emmy.svg "Emmy Noether")
+![Emmy Noether](https://github.com/ojwalch/triangulate-svg/blob/master/emmy_output.png "Emmy Noether")
 
 
 `triangulate('astro.png',200)` 
-![Space](https://github.com/ojwalch/triangulate-svg/blob/master/astro.svg "Space")
+![Space](https://github.com/ojwalch/triangulate-svg/blob/master/astro_output.png "Space")
