@@ -23,7 +23,6 @@ Examples:
 ![Emmy Noether](https://github.com/ojwalch/triangulate-svg/blob/master/emmy_output.png "Emmy Noether")
 
 <br>
-
-
 - `triangulate('astro.png',200)` 
+
 ![Space](https://github.com/ojwalch/triangulate-svg/blob/master/astro_output.png "Space")
